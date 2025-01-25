@@ -9,5 +9,5 @@ One of the projects I developed is the "Tomato Food Delivery Application." This 
 
 This project helped me gain practical experience in frontend development </p>
 
-Q. How do you rate yourself in CSS
+#### How do you rate yourself in CSS
 I would rate myself as an intermediate in CSS. I'm proficient with basic selectors, flexbox, media queries, and various properties. However, I'm still learning about position utilities, animations, transitions, and certain CSS selectors. I'm committed to expanding my knowledge and improving my skills in these areas.
